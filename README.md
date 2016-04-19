@@ -1,2 +1,2 @@
-# OLSUtils-Android
-No petits codes à nous pour nous aider dans nos projets
+# olsutils-android
+Nos classes utilitaires
